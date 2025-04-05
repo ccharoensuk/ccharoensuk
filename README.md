@@ -10,19 +10,38 @@ Hi there! I’m Cha — a creative marketing automation specialist passionate ab
 
 ## 💡 Skills & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Marketo](https://img.shields.io/badge/Marketo-purple?logo=marketo&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-ffe01b?logo=mailchimp&logoColor=black)
-![HubSpot](https://img.shields.io/badge/HubSpot-fd7e14?logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=f06a6a)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>💻 Development</strong><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>🧠 Marketing Automation & CRM</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Marketo-purple?logo=marketo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mailchimp-ffe01b?logo=mailchimp&logoColor=black" />
+      <img src="https://img.shields.io/badge/HubSpot-fd7e14?logo=hubspot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>☁️ SaaS & Collaboration Tools</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=f06a6a" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>🎨 Design & Visual Tools</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 - ✍️ Copywriting using **AIDA Framework** (Attention–Interest–Desire–Action)  
 - 📧 Responsive Email Design: HTML tables, inline CSS, VML buttons  
