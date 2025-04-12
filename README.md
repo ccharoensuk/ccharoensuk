@@ -43,7 +43,7 @@ Hi there! I’m Cha — a creative marketing automation specialist passionate ab
 </table>
 
 
-- ✍️ Copywriting using **AIDA Framework** (Attention–Interest–Desire–Action)  
+- ✍️ Copywriting follow **AIDA Framework** (Attention–Interest–Desire–Action)  
 - 📧 Responsive Email Design: HTML tables, inline CSS, VML buttons  
 - 📊 A/B Testing & Performance Optimization  
 - 📬 Experience with **ESPs** (Email Service Providers)  
